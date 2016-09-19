@@ -53,8 +53,8 @@
                     android:screenOrientation="behind" />
         </config-file>
 
-        <!--<source-file src="src/android/PingppPlugin.java" target-dir="src/me/tongchia/cordova/"/>
-        <source-file src="sdk/android/lib/pingpp/libs/alipaySingle-20160825.jar" target-dir="libs"/>
+        <source-file src="src/android/PingppPlugin.java" target-dir="src/me/tongchia/cordova/"/>
+        <!--<source-file src="sdk/android/lib/pingpp/libs/alipaySingle-20160825.jar" target-dir="libs"/>
         <source-file src="sdk/android/lib/pingpp/libs/libammsdk.jar" target-dir="libs"/>
         <source-file src="sdk/android/lib/pingpp/libs/libpingpp-2.1.6.jar" target-dir="libs"/>
         <source-file src="sdk/android/lib/pingpp/libs/armeabi/libpingpp.so" target-dir="libs"/>-->
